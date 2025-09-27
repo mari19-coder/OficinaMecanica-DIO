@@ -1,6 +1,6 @@
 # Construindo um Esquema Conceitual para Banco De dados
 
-*Oficina Mecaênica*
+*Oficina Mecânica*
 
 
 Sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica
@@ -12,3 +12,4 @@ A mesma equipe avalia e executa os serviços
 Os mecânicos possuem código, nome, endereço e especialidade
 Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
 
+![] https://github.com/mari19-coder/OficinaMecanica-DIO/blob/main/OficinaMecanicaDIO.png
